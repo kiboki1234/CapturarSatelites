@@ -1,0 +1,22 @@
+# Entorno virtual y archivos de Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración local de editores y herramientas
+.kilo/
+.vscode/
+.idea/
+
+# Datos de captura y resultados generados
+data/raw/
+outputs/
+SalidaSatDump/
+
+# Archivos temporales y del sistema
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
